@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-Yoo)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiden-Yoo&hide_progress=true)
 
 
 <!--
